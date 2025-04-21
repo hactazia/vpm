@@ -1,19 +1,20 @@
 {
-    "name":"Hactazia's VPM Repo",
-    "id":"fr.hactazia.vpm",
-    "url":"https://hactazia.github.io/vpm/index.json",
-    "author":{
-        "name":"Hactazia",
-        "url":"https://www.hactazia.fr/"
+    "name": "Hactazia's VPM Repo",
+    "id": "fr.hactazia.vpm",
+    "url": "https://hactazia.github.io/vpm/index.json",
+    "author": {
+        "name": "Hactazia",
+        "url": "https://www.hactazia.fr/"
     },
-    "description":"This is a VPM repository for Hactazia's packages.",
-    "infoLink":{
-        "url":"http://github.com/hactazia/vpm",
-        "text":"View on GitHub"
+    "description": "This is a VPM repository for Hactazia's packages.",
+    "infoLink": {
+        "url": "http://github.com/hactazia/vpm",
+        "text": "View on GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "hactazia/udon-list",
-        "hactazia/udon-player"
+    "bannerUrl": "banner.png",
+    "githubRepos": [
+        "hactazia/midi-transporter",
+        "hactazia/udon-player",
+        "hactazia/udon-list"
     ]
 }
