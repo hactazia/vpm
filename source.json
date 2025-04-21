@@ -1,7 +1,7 @@
 {
     "name": "Hactazia's VPM Repo",
     "id": "fr.hactazia.vpm",
-    "url": "http://vpm.hactazia.fr/index.json",
+    "url": "https://vpm.hactazia.fr/index.json",
     "author": {
         "name": "Hactazia",
         "discord": "hactazia",
@@ -9,7 +9,7 @@
     },
     "description": "This is a VPM repository for Hactazia's packages.",
     "infoLink": {
-        "url": "http://github.com/hactazia/vpm",
+        "url": "https://github.com/hactazia/vpm",
         "text": "View on GitHub"
     },
     "bannerUrl": "banner.png",
