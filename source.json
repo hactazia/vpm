@@ -17,6 +17,6 @@
         "hactazia/midi-transporter",
         "hactazia/udon-tools",
         "hactazia/udon-player",
-        "hactazia/udon-list"
+        "hactazia/udon-types"
     ]
 }
